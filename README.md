@@ -1,2 +1,2 @@
 # MyDateSubfromCalender
-in this app you will can be calculate your age form the calender
+in this app you will be able to calculate your age form the calender
